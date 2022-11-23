@@ -10,6 +10,7 @@ Project homepage https://oshwlab.com/jeronimus.net/hexaput_copy_copy_copy_copy
 Project Link in Editor https://easyeda.com/editor#id=44a68daa97ea4bc6a7940b6812c9b629|b321553e342a4b858b3840c2e264d165|
 
 EasyEdaQR
+
 ![EasyEdaQR](EasyEdaQR.png)
 
 ## My Personal Blog

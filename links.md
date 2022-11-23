@@ -17,5 +17,5 @@ EasyEdaQR
 https://blog.jeronimus.net/2022/11/big-clive-supercomputer-november-2022.html
 
 ## Youtube
-Video of 7*7 red Led https://youtube.com/shorts/r2JGXvKgrpQ?feature=share 
+7*7 red Led video  https://youtube.com/shorts/r2JGXvKgrpQ?feature=share 
 
